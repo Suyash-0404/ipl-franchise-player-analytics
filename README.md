@@ -43,7 +43,7 @@ team and venue performance and derive franchise-oriented insights.
 
 2. Uncapped players like Kartik Tyagi, Anshul Kamboj offer 3x better value than marquee signings, suggesting franchises should prioritize undervalued talent over star power.
 
-3. RCB's 78.57% win rate with moderate spending proves strategic player selection beats heavy starpower investment, while MI's ₹2.2 Cr minimal spend shows critical under-investment risks.
+3. RCB's 64.29% win rate with moderate spending proves strategic player selection beats heavy starpower investment, while MI's ₹3.2 Cr minimal spend shows critical under-investment risks.
 
 ## Business / Franchise Relevance
 
